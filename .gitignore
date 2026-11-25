@@ -1,0 +1,8 @@
+.env
+**/.venv/
+**/.venv-sagemaker/
+**/__pycache__/
+**/*.py[cod]
+**/data/*.db*
+sagemaker/deployment_info.json
+load_tests/results_*
